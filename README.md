@@ -1,7 +1,8 @@
 # Omegle Location by L14
 Find an ip address, and the location of someone on omegle.
 (the API key is offered with;)
-![demo](https://nsa40.casimages.com/img/2021/02/16/mini_210216073755970111.gif)
+
+![demo](https://nsa40.casimages.com/img/2021/02/16/210216073755970111.gif)
 
 Soon there will be a tutorial in **French**, to tell a little more about how omegle works and how does it work?
 
