@@ -3,7 +3,7 @@
 /// Created the 16/02/2021
 
 // the API key allowing to know the location of someone thanks to an IP : https://ipgeolocation.io
-let keyapi = "283ad1f2f2ec4e88b8b31ae9f276326f";
+let keyapi = "8d3373cc74884e1d8cf43a792b1da3b5";
 
 window.oRTCPeerConnection =
     window.oRTCPeerConnection || window.RTCPeerConnection;
